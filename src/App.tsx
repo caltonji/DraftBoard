@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <Grid container>
-        <Grid container item xs={12}>
+        <Grid container item xs={12} className="GridRow">
           <Grid item xs>
               <Typography variant="h5" component="h2" color="textPrimary">
                   Round
