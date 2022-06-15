@@ -1,0 +1,22 @@
+.cell_card {
+    height: 200px;
+}
+
+.grid {
+    height: 100%;
+}
+
+.keptbox {
+    background-color: black;
+    color: white;
+}
+
+.points_pos {
+    background-color: #4caf50;
+    color: black;
+}
+
+.points_ng {
+    background-color: #f44336;
+    color: white;
+}
